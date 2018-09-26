@@ -1,3 +1,4 @@
+print("____________This contains different patterns___________")
 n=int(input("Enter the number of series : "))
 for i in range(n+1):
     for j in range(i):
